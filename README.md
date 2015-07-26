@@ -8,3 +8,5 @@ git add *ime fajla*
 git commit -m "ime poruke"
 
 git push
+
+git pull
